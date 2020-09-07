@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6f3c5d6c-e5ff-4a11-b320-71a2e950b3c9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1hCASstoVmJz6lSHohK9tkUrJSI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../laba0" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6f3c5d6c-e5ff-4a11-b320-71a2e950b3c9" name="Default Changelist" comment="" />
+      <created>1599504705786</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599504705786</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="267" y="262" key="FileChooserDialogImpl" timestamp="1599505471671">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="267" y="262" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1599505471671" />
+    <state x="161" y="219" key="NewModule_or_Project.wizard" timestamp="1599505494512">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="161" y="219" key="NewModule_or_Project.wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1599505494512" />
+    <state x="184" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1599505258487">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="184" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1599505258487" />
+  </component>
+</project>
